@@ -1,0 +1,6 @@
+{
+"scripts":{
+    "start": "reveal-md slides/220622_ZentralBankUndKryptowaehrung.md --theme theme/ydark.css -w",
+    "build": "rm -rf docs && slides/220622_ZentralBankUndKryptowaehrung.md --theme theme/ydark.css --static docs --static-dirs=slides/assets"
+  }
+}

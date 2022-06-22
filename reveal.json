@@ -1,0 +1,11 @@
+{
+    "width": 1920,
+	"height": 1080,
+    "controls": true,
+    "progress": true,
+    "history": true,
+    "center": true,
+    "slideNumber": true,
+    "parallaxBackgroundImage": "images/backdrop.png",
+    "parallaxBackgroundSize": "2000px 1125px"
+}
